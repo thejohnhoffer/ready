@@ -32,6 +32,7 @@ In `bash`, you type `ipython` to enter `ipython`. Something like `In [1]:` means
 
 You'll notice `ipython` has colors to help you remember the meaning of symbols:
 ![ipython](ipython.png)
+
 In this image:
 - Green:
     - numbers
