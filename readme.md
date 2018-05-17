@@ -71,3 +71,7 @@ In [2]: read.files('single_spaced.txt', 'double_spaced.txt')
 ``` 
 
 If you open [test.py](test.py), you'll notice these two lines.
+
+### What is happening?
+
+When you type `import read`, python finds [the file](https://github.com/thejohnhoffer/ready/blob/master/read.py) called `read.py`. After python finds that file, Then you can type `read.files` to find [the function](https://github.com/thejohnhoffer/ready/blob/master/read.py#L11) called `files` in `read.py`. You can call this function on two filenames `a` and `b` by typing `read.files(a ,b)`.
