@@ -35,15 +35,16 @@ You'll notice `ipython` has colors to help you remember the meaning of symbols:
 
 In this image:
 - Green:
-    - numbers
-    - your input prompt
-    - standard python [keywords](https://github.com/thejohnhoffer/ready/wiki/keywords)
-    - standard python [functions](https://docs.python.org/3/library/functions.html)
-- Red: your output
-- Orange: strings
-- Blue: function defintions
-- Gray: variables and symbols 
-- Pink: string [format identifiers](https://pyformat.info/#simple)
+    - numbers like `8`
+    - your input prompt `In [1]:`
+    - standard python [functions](https://docs.python.org/3/library/functions.html) like `str`
+    - standard python [keywords](https://github.com/thejohnhoffer/ready/wiki/keywords) like `def`, and `return`
+- Red: your output `Out [1]:`
+- Orange: strings like `')'`
+- Blue: function defintions like the first mention of `make_smile`
+- Gray:
+    - variables like `eyes`, `mouth`, and the second mention of `make_smile`
+    - symbols like `:`, `(`, `)`, `,` and `+`
 
 ### Run the code from bash
 
