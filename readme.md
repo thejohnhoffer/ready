@@ -32,6 +32,22 @@ In `bash`, you type `ipython` to enter `ipython`. Something like `In [1]:` means
 
 You'll notice `ipython` has colors to help you remember the meaning of symbols:
 ![ipython](ipython.png)
+In this image:
+- Green:
+    - numbers
+    - your input prompt
+    - standard python [keywords](https://github.com/thejohnhoffer/ready/wiki/keywords)
+    - standard python [functions](https://docs.python.org/3/library/functions.html)
+- Red:
+    - your output
+- Orange:
+    - strings
+- Blue:
+    - function defintions
+- Pink:
+    - string format [placeholders](https://pyformat.info/#simple)
+- Gray:
+    - variables and symbols 
 
 ### Run the code from bash
 
