@@ -38,16 +38,11 @@ In this image:
     - your input prompt
     - standard python [keywords](https://github.com/thejohnhoffer/ready/wiki/keywords)
     - standard python [functions](https://docs.python.org/3/library/functions.html)
-- Red:
-    - your output
-- Orange:
-    - strings
-- Blue:
-    - function defintions
-- Pink:
-    - string format [placeholders](https://pyformat.info/#simple)
-- Gray:
-    - variables and symbols 
+- Red: your output
+- Orange: strings
+- Blue: function defintions
+- Gray: variables and symbols 
+- Pink: string [format identifiers](https://pyformat.info/#simple)
 
 ### Run the code from bash
 
