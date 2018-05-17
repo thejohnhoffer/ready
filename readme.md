@@ -22,7 +22,7 @@ Now you're in a folder that contains this project.
 
 ### Notes
 
-A `$` means you're in a `bash` prompt, like this:
+`$` means you're in a `bash` prompt, like this:
 
 ```
 laptop:ready John$
